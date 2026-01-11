@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b style="color:#ff6f61;">Omkar Mahanandia</b></h1>
-<h3 align="center">Full-Stack Developer | Machine Learning & NLP Enthusiast</h3>
+<h3 align="center">Full-Stack python Developer | Machine Learning & NLP Enthusiast</h3>
 
 <p align="center">
   <i>Turning data, language, and code into real-world impact 🚀</i>
@@ -42,7 +42,7 @@
 - OCR + Language Models (Odia-focused projects)
 
 ### 🗄️ Databases
-- MySQL | PostgreSQL | MongoDB  
+- MySQL      |     PostgreSQL   
 
 ### 🛠️ Tools & Platforms
 - Git & GitHub  
@@ -59,13 +59,6 @@
 - 🧠 **Smart AI Platforms** (Healthcare, Climate, Governance concepts)
 
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
 ---
 
 ## 🔗 Connect With Me
