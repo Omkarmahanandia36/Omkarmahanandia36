@@ -56,7 +56,6 @@
 - 🌐 **IMDB Sentiment Analysis Web App** (ML + Flask + Frontend)
 - 🈶 **English → Hindi Machine Translation** using Seq2Seq LSTM
 - 📰 **Odia OCR & Language Processing System**
-- 🧠 **Smart AI Platforms** (Healthcare, Climate, Governance concepts)
 
 ---
 ---
