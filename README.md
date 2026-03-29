@@ -1,83 +1,225 @@
-<h1 align="center">Hi 👋, I'm <b style="color:#ff6f61;">Omkar Mahanandia</b></h1>
-<h3 align="center">Full-Stack python Developer | Machine Learning & NLP Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6F61&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mahanandia" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Full-Stack Python Developer | Machine Learning & NLP Enthusiast</h3>
 
 <p align="center">
   <i>Turning data, language, and code into real-world impact 🚀</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omkarmahanandia36link&label=Profile%20Views&color=ff6f61&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Omkarmahanandia36link?label=Followers&style=flat-square&color=ff6f61" alt="GitHub Followers" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Master’s student in **Computer Applications (MCA)**  
-- 🧠 Strong interest in **Machine Learning, NLP, and AI-driven systems**
-- 💻 Build **end-to-end applications** using Frontend + Backend + ML models
-- 🌍 Passionate about **Indian language tech**
+
+```python
+class OmkarMahanandia:
+    def __init__(self):
+        self.role = "Full-Stack Python Developer"
+        self.education = "Master's in Computer Applications (MCA)"
+        self.interests = ["Machine Learning", "NLP", "AI Systems", "Indian Language Tech"]
+        self.current_focus = ["NLP", "OCR", "ML-powered Full-Stack Apps"]
+        self.location = "India 🇮🇳"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = OmkarMahanandia()
+me.say_hi()
+```
+
+- 🎓 Master's student in **Computer Applications (MCA)**
+- 🧠 Deep interest in **Machine Learning, NLP, and AI-driven systems**
+- 💻 Build **end-to-end applications** combining Frontend + Backend + ML models
+- 🌍 Passionate about **Indian language technology** and accessibility
 - 🔭 Currently working on **NLP, OCR, and ML-powered full-stack projects**
-- 🛠 Love solving problems that sit at the intersection of **code + data + users**
+- 🛠 Love solving problems at the intersection of **code + data + users**
 - 💬 Ask me about **Python, ML, NLP, Flask, APIs, Databases**
 - 📫 Reach me at: **omkarmahanandia@gmail.com**
+- ⚡ Fun fact: I believe the best code tells a story!
 
 ---
 
-## 💼 Technical Skills
+## 💼 Technical Arsenal
 
-### 🖥️ Frontend
-- HTML | CSS | JavaScript  
-- Responsive UI & API integration  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+```javascript
+const frontend = {
+  languages: ["HTML", "CSS", "JavaScript"],
+  focus: ["Responsive Design", "API Integration"],
+  tools: ["Bootstrap", "Modern CSS"]
+}
+```
 
 ### ⚙️ Backend
-- Python | Flask  
-- REST APIs  
-- Authentication & CRUD systems  
+```python
+backend = {
+    "languages": ["Python"],
+    "frameworks": ["Flask"],
+    "expertise": ["REST APIs", "Authentication", "CRUD Systems"]
+}
+```
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Machine Learning & NLP
-- Supervised & Unsupervised Learning  
-- NLP: Text cleaning, TF-IDF, Word Embeddings  
-- Sentiment Analysis, Text Classification  
-- Seq2Seq (Encoder-Decoder) for Machine Translation  
-- OCR + Language Models (Odia-focused projects)
+- Supervised & Unsupervised Learning
+- Text Processing & Cleaning
+- TF-IDF & Word Embeddings
+- Sentiment Analysis
+- Text Classification
+- Seq2Seq Models (Encoder-Decoder)
+- Machine Translation
+- OCR & Language Models
 
 ### 🗄️ Databases
-- MySQL      |     PostgreSQL   
+- MySQL | PostgreSQL
+
+</td>
+</tr>
+</table>
 
 ### 🛠️ Tools & Platforms
-- Git & GitHub  
-- Docker (basics)  
-- Jupyter Notebook  
-- VS Code  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
-## 📌 Highlight Projects
-- 🌐 **IMDB Sentiment Analysis Web App** (ML + Flask + Frontend)
-- 🈶 **English → Hindi Machine Translation** using Seq2Seq LSTM
-- 📰 **Odia OCR & Language Processing System**
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 IMDB Sentiment Analysis
+**Tech Stack:** ML + Flask + Frontend
+- Real-time sentiment prediction
+- Interactive web interface
+- Trained on large IMDB dataset
+- RESTful API backend
+
+</td>
+<td width="50%">
+
+### 🈶 English → Hindi Translation
+**Tech Stack:** Seq2Seq LSTM + Python
+- Neural machine translation
+- Encoder-Decoder architecture
+- Attention mechanism
+- Context-aware translations
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📰 Odia OCR System
+**Tech Stack:** OCR + NLP + Python
+- Optical character recognition
+- Odia language processing
+- Text extraction & analysis
+- Indian language focus
+
+</td>
+<td width="50%">
+
+### 🚀 More Projects Coming Soon!
+Working on exciting ML and NLP projects.
+Check back for updates!
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36link&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&icon_color=ff6f61" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarmahanandia36link&theme=radical&hide_border=true&background=1a1b27&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarmahanandia36link&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omkarmahanandia36link&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## 🔗 Connect With Me
+
 <p align="center">
-  <a href="www.linkedin.com/in/omkarmahanandia">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/omkarmahanandia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Omkarmahanandia36link">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:omkarmahanandia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🧰 Languages & Technologies
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-NLP-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarmahanandia36link&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=ff6f61&line=ff6f61&point=ffffff" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Omkarmahanandia36link">Omkar Mahanandia</a> - Let's build the future together!</i>
 </p>
