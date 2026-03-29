@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omkarmahanandia36link&label=Profile%20Views&color=ff6f61&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Omkarmahanandia36link?label=Followers&style=flat-square&color=ff6f61" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Omkarmahanandia36&label=Profile%20Views&color=ff6f61&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Omkarmahanandia36?label=Followers&style=flat-square&color=ff6f61" alt="GitHub Followers" />
 </p>
 
 ---
@@ -133,12 +133,13 @@ backend = {
 <tr>
 <td width="50%">
 
-### 📰 Odia OCR System
-**Tech Stack:** OCR + NLP + Python
-- Optical character recognition
-- Odia language processing
-- Text extraction & analysis
-- Indian language focus
+### 💼 HR Management System
+**Tech Stack:** Flask + MySQL + Frontend
+- Complete employee lifecycle management
+- Attendance tracking & leave management
+- Role-based access control
+- Report generation & analytics
+- Authentication system
 
 </td>
 <td width="50%">
@@ -156,20 +157,12 @@ Check back for updates!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36link&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&icon_color=ff6f61" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarmahanandia36link&theme=radical&hide_border=true&background=1a1b27&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&icon_color=ff6f61" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarmahanandia36&theme=radical&hide_border=true&background=1a1b27&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarmahanandia36link&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omkarmahanandia36link&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarmahanandia36&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61" alt="Top Languages" />
 </p>
 
 ---
@@ -180,7 +173,7 @@ Check back for updates!
   <a href="https://www.linkedin.com/in/omkarmahanandia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Omkarmahanandia36link">
+  <a href="https://github.com/Omkarmahanandia36">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:omkarmahanandia@gmail.com">
@@ -208,18 +201,10 @@ Check back for updates!
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarmahanandia36link&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=ff6f61&line=ff6f61&point=ffffff" alt="Contribution Graph" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Omkarmahanandia36link">Omkar Mahanandia</a> - Let's build the future together!</i>
+  <i>⭐️ From <a href="https://github.com/Omkarmahanandia36">Omkar Mahanandia</a> - Let's build the future together!</i>
 </p>
