@@ -157,12 +157,12 @@ Check back for updates!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&icon_color=ff6f61" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&icon_color=ff6f61&cache_seconds=1800" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarmahanandia36&theme=radical&hide_border=true&background=1a1b27&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarmahanandia36&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61" alt="Top Languages" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Omkarmahanandia36&theme=radical&hide_border=true&background=1a1b27&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" />
 </p>
 
 ---
