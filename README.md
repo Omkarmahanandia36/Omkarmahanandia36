@@ -263,13 +263,6 @@ backend = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Omkarmahanandia36&theme=radical&hide_border=true&background=1a1b27&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" alt="Streak Stats"/>
-</p>
-
-
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarmahanandia36&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff6f61&line=ff6f61&point=c9d1d9" alt="Activity Graph"/>
 </p>
 
