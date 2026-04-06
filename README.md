@@ -262,24 +262,12 @@ backend = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=My+GitHub+Journey+%F0%9F%93%88;Code+%7C+Commit+%7C+Conquer+%F0%9F%8F%86" alt="Stats Typing" />
-</div>
-
-<br>
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Omkarmahanandia36&theme=radical&hide_border=true&background=1a1b27&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" alt="Streak Stats"/>
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarmahanandia36&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6f61&text_color=c9d1d9" alt="Top Languages"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omkarmahanandia36&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarmahanandia36&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff6f61&line=ff6f61&point=c9d1d9" alt="Activity Graph"/>
