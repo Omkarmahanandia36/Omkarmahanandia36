@@ -59,7 +59,7 @@ class OmkarMahanandia:
     ]
 
     currently   = "Building Cyber Sahayak 🛡️"
-    languages   = ["Odia","Hindi","English","Bangla"]
+    languages   = ["Odia","Hindi","English"]
     motto       = "Teach deeply. Build deliberately."
 
 ```
@@ -111,8 +111,8 @@ class OmkarMahanandia:
 <td align="center"><img src="https://img.shields.io/badge/COMPLETED-7C3AED?style=flat-square&logoColor=white"/></td>
 </tr>
 <tr>
-<td align="center"><b>CGC Jhajjar</b><br/><sub>Chandigarh Group of Colleges</sub></td>
-<td align="center">Assistant Professor — CSE Dept.<br/><sub>OOP with Java · System Design</sub></td>
+<td align="center"><b>C.G.C Mohali</b><br/><sub>Chandigarh Group of Colleges</sub></td>
+<td align="center">Assistant Professor — CSE Dept.<br/>
 <td align="center"><img src="https://img.shields.io/badge/ACTIVE-10B981?style=flat-square&logoColor=white"/></td>
 </tr>
 </tbody>
