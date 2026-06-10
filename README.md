@@ -1,386 +1,463 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FF6F61&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mahanandia;Assistant+Professor+%7C+CSE+%40+CGC+Jhajjar;ML+%26+Data+Science+Engineer;NLP+%7C+Full-Stack+Python+%7C+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omkar%20Mahanandia&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Educator%20%7C%20ML%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=55&descAlign=50" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=OMKAR%20MAHANANDIA&fontSize=52&fontColor=E0C3FC&animation=fadeIn&fontAlignY=45&desc=Assistant%20Professor%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20NLP%20Researcher&descSize=18&descAlignY=68&descAlign=50&stroke=A78BFA&strokeWidth=1" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omkarmahanandia36&label=Profile%20Views&color=ff6f61&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Omkarmahanandia36?label=Followers&style=flat-square&color=ff6f61" />
-  <img src="https://img.shields.io/badge/Role-Assistant%20Professor%20%7C%20CSE-ff6f61?style=flat-square" />
-  <img src="https://img.shields.io/badge/Institution-CGC%20Jhajjar-ff6f61?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-ff6f61?style=flat-square" />
-</p>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=MCA+%E2%80%94+National+Institute+of+Technology%2C+Raipur+%F0%9F%8E%93;Teaching+OOP+with+Java+%26+System+Design+%40+CGC+Jhajjar;Building+AI+Systems+for+Real-World+Impact+%F0%9F%9A%80;Passionate+about+Indian+Language+Technology+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/Omkarmahanandia36)
+
 </div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Omkarmahanandia36&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Omkarmahanandia36)
+[![GitHub followers](https://img.shields.io/github/followers/Omkarmahanandia36?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/Omkarmahanandia36)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/omkarmahanandia)
+
+</div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+## ✦ &nbsp; WHO I AM &nbsp; ✦
+
+</div>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
 ```python
+################################
+#   omkar_mahanandia.profile   #
+################################
+
 class OmkarMahanandia:
-    def __init__(self):
-        self.name       = "Omkar Mahanandia"
-        self.role       = "Assistant Professor, CSE — CGC Jhajjar"
-        self.education  = "MCA — NIT Raipur"
-        self.core       = ["Machine Learning", "Data Science", "NLP"]
-        self.teaches    = ["OOP with Java", "System Design"]
-        self.stack      = ["Python", "FastAPI", "React", "PostgreSQL"]
-        self.research   = ["Indian Language Tech", "Edge ML", "OCR"]
-        self.building   = "Cyber Sahayak — AI Cybercrime Reporting Assistant"
-        self.location   = "India 🇮🇳"
 
-    def philosophy(self):
-        return "Teach deeply. Build deliberately. Impact meaningfully."
+    name        = "Omkar Mahanandia"
+    title       = "Assistant Professor — CSE"
+    institute   = "CGC Jhajjar, Haryana"
+    education   = "MCA · NIT Raipur  🎓"
 
-me = OmkarMahanandia()
-print(me.philosophy())
-# → "Teach deeply. Build deliberately. Impact meaningfully."
-```
-
-<br clear="right"/>
-
-- 🎓 **MCA from NIT Raipur** — National Institute of Technology, one of India's premier institutes
-- 👨‍🏫 **Assistant Professor, CSE** at **CGC Jhajjar** — teaching OOP with Java & System Design
-- 🤖 Deep expertise in **Machine Learning, Data Science, and NLP**
-- 🌏 Passionate about **Indian language technology** — working in Odia, Hindi, Bengali
-- 🔬 Research interests: **Edge ML, Seq2Seq models, OCR for low-resource languages**
-- 🛡️ Building **Cyber Sahayak** — AI-powered cybercrime reporting platform for India
-- 💬 Ask me about **Python · ML pipelines · NLP · System Design · Full-Stack APIs**
-- 📫 Reach me at: **omkarmahanandia@gmail.com**
-- ⚡ _"The best model is the one that solves a real problem for a real person."_
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-## 🎓 Education & Credentials
-
-<div align="center">
-
-| 🏛️ Institution | 📜 Degree | 🗓️ Year |
-|:---|:---|:---|
-| **National Institute of Technology, Raipur** | Master of Computer Applications (MCA) | 2023 |
-| Chandigarh Group of Colleges, Jhajjar (CGC) | Assistant Professor — CSE Department | 2024–Present |
-
-</div>
-
-> 💡 MCA from **NIT Raipur** — one of India's top NITs, with specialization in ML, NLP, and Full-Stack Development.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-## 💼 Technical Arsenal
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning & Data Science
-```python
-ml_stack = {
-    "frameworks":  ["scikit-learn", "TensorFlow", "PyTorch", "Keras"],
-    "nlp":         ["HuggingFace", "NLTK", "spaCy", "Seq2Seq LSTM"],
-    "data":        ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "techniques":  [
-        "Supervised & Unsupervised Learning",
-        "Neural Machine Translation",
-        "Text Classification & Sentiment Analysis",
-        "Encoder-Decoder with Attention",
-        "OCR & Document Intelligence",
-        "Edge-ML & Computer Vision"
+    teaches     = [
+        "Object-Oriented Programming (Java)",
+        "System Design"
     ]
-}
+
+    expertise   = [
+        "Machine Learning & Data Science",
+        "Natural Language Processing",
+        "Indian Language Technology",
+        "Full-Stack Python Development"
+    ]
+
+    currently   = "Building Cyber Sahayak 🛡️"
+    languages   = ["Odia","Hindi","English","Bangla"]
+    motto       = "Teach deeply. Build deliberately."
+
 ```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="5%"></td>
+<td width="40%" valign="top" align="center">
 
-### ⚙️ Backend & APIs
-```python
-backend = {
-    "languages":   ["Python"],
-    "frameworks":  ["FastAPI", "Flask", "Django"],
-    "expertise":   [
-        "REST API Design",
-        "JWT Authentication",
-        "WebSockets",
-        "Async Backends"
-    ],
-    "deployment":  ["Railway", "Docker", "Linux"]
-}
-```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django&perline=4" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" style="border-radius: 12px;"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🎨 Frontend
-```javascript
-const frontend = {
-  frameworks: ["React", "React Native"],
-  languages:  ["JavaScript", "HTML5", "CSS3"],
-  ui:         ["Bootstrap", "Tailwind CSS"],
-  tools:      ["Axios", "REST integration"]
-}
-```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&perline=5" />
-</p>
+📍 India &nbsp;|&nbsp; 📧 omkarmahanandia@gmail.com
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🗄️ Databases & DevOps
-```python
-infra = {
-    "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-    "devops":    ["Docker", "Railway", "Git", "Linux"],
-    "tools":     ["Postman", "Jupyter", "VS Code", "Ollama"]
-}
-```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git&perline=5" />
-</p>
+[![Email](https://img.shields.io/badge/Say%20Hello!-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahanandia@gmail.com)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<br/>
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
+
+## 🎓 &nbsp; EDUCATION & CREDENTIALS
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th align="center">🏛️ &nbsp; Institution</th>
+<th align="center">📜 &nbsp; Qualification</th>
+<th align="center">🏷️ &nbsp; Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>National Institute of Technology, Raipur</b><br/><sub>One of India's premier NITs</sub></td>
+<td align="center">Master of Computer Applications (MCA)<br/><sub>Specialization · ML · NLP · Full-Stack</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/COMPLETED-7C3AED?style=flat-square&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center"><b>CGC Jhajjar</b><br/><sub>Chandigarh Group of Colleges</sub></td>
+<td align="center">Assistant Professor — CSE Dept.<br/><sub>OOP with Java · System Design</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/ACTIVE-10B981?style=flat-square&logoColor=white"/></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ⚡ &nbsp; TECHNICAL MASTERY
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤖 &nbsp; Machine Learning & Data Science &nbsp; 🤖
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌐 &nbsp; Backend · APIs · Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎨 &nbsp; Frontend · DevOps · Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🚀 &nbsp; FEATURED PROJECTS
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ╔══════════════════════════════════════╗
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛡️ &nbsp; CYBER SAHAYAK &nbsp; — &nbsp; FLAGSHIP PROJECT
+### ╚══════════════════════════════════════╝
+
+</div>
+
+<div align="center">
+
+> *An AI-powered cybercrime reporting assistant built for India — vernacular NLP, automated FIR drafting, privacy-first local LLM.*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-LLM-7C3AED?style=for-the-badge)
+
+| Feature | Description |
+|:---|:---|
+| 🗣️ **Vernacular NLP** | Supports Odia, Hindi, and English citizen inputs |
+| 📋 **Auto FIR Drafting** | AI generates structured complaint from narrative |
+| 🔒 **Privacy-First** | Local LLM via Ollama — no data leaves the device |
+| 📱 **Dual Interface** | Citizen mobile app + Law enforcement web dashboard |
+| 🎯 **Gov-Ready** | Targeting Odisha state licensing & deployment |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table border="0">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🈶 &nbsp; Neural Machine Translation
+
+> English → Hindi via Seq2Seq + Attention
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/Seq2Seq-LSTM-7C3AED?style=flat-square)
+
+✦ Encoder-Decoder with Attention mechanism  
+✦ BLEU score optimized for Indian language pairs  
+✦ Trained on parallel English-Hindi corpora  
+✦ Context-aware, production-ready inference  
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🎬 &nbsp; IMDB Sentiment Analysis
+
+> End-to-end ML web app with live prediction
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![ML](https://img.shields.io/badge/Accuracy-85%25+-10B981?style=flat-square)
+
+✦ TF-IDF + Deep Learning pipeline  
+✦ Real-time REST API predictions  
+✦ Interactive web interface  
+✦ **85%+ accuracy** on held-out test set  
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 💼 &nbsp; HR Management System
+
+> Multi-role enterprise system — live on Railway
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-WAL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Deployed](https://img.shields.io/badge/Railway-Deployed-7C3AED?style=flat-square)
+
+✦ Role-based access: multi-admin architecture  
+✦ Attendance, leave & analytics dashboard  
+✦ SQLite with WAL mode for high concurrency  
+✦ JWT auth, live-deployed environment  
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 📍 &nbsp; GigNear — Hyperlocal Platform
+
+> Gig worker marketplace for India
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Real_Time-7C3AED?style=flat-square)
+
+✦ Full PostgreSQL schema designed  
+✦ Real-time gig matching via Socket.IO  
+✦ 16-week MVP roadmap completed  
+✦ UI/UX design spec finalized  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 👨‍🏫 &nbsp; TEACHING & RESEARCH
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🛡️ Cyber Sahayak
-> AI-powered cybercrime reporting assistant for India
+### 📘 OOP with Java
+<sub>CGC Jhajjar · CSE Dept.</sub>
 
-**Stack:** FastAPI · React · React Native · PostgreSQL · Ollama
+<br/>
 
-- 🔍 Vernacular NLP — supports Odia, Hindi, English
-- 📋 Automated FIR drafting from incident descriptions
-- 🤖 Local LLM (Ollama) for privacy-first processing
-- 🌐 Citizen-facing mobile + web interface
-- 📊 Analytics dashboard for law enforcement
-- 🎯 Targeted for Odisha government licensing
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-LLM-ff6f61?style=flat-square"/>
-</p>
+Inheritance · Polymorphism  
+Interfaces · Design Patterns  
+Collections · Exception Handling  
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🈶 English → Hindi Neural Translation
-> Seq2Seq machine translation system
+### 🏗️ System Design
+<sub>CGC Jhajjar · CSE Dept.</sub>
 
-**Stack:** TensorFlow · Keras · Python · LSTM
+<br/>
 
-- 🧠 Encoder-Decoder with Attention mechanism
-- 📈 BLEU score optimized for Indian language pairs
-- 🔤 Context-aware translations
-- 🌐 Trained on parallel English-Hindi corpora
-- 📦 Production-ready inference pipeline
+![Architecture](https://img.shields.io/badge/HLD%2FLLD-7C3AED?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seq2Seq-NLP-25A162?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Attention-Mechanism-ff6f61?style=flat-square"/>
-</p>
+Scalability · Load Balancing  
+Distributed Systems · Caching  
+Database Sharding · Microservices  
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🎬 IMDB Sentiment Analysis
-> End-to-end ML web application
+### 🔬 Research Focus
+<sub>Active Areas</sub>
 
-**Stack:** Python · Flask · scikit-learn · HTML/CSS/JS
+<br/>
 
-- ✅ Real-time sentiment prediction via REST API
-- ✅ TF-IDF + classical ML baseline + Deep Learning
-- ✅ Interactive web interface
-- ✅ **85%+ accuracy** on IMDB test set
-- ✅ Modular, production-grade codebase
+![NLP](https://img.shields.io/badge/NLP-Research-10B981?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-Sentiment-ff6f61?style=flat-square"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 HR Management System
-> Multi-role enterprise system — deployed on Railway
-
-**Stack:** Flask · SQLite (WAL) · JWT · Railway
-
-- 👥 Full employee lifecycle management
-- 🔐 Multi-admin role-based access control
-- 📊 Attendance, leave, and analytics dashboard
-- 🚀 Deployed live on Railway with env config
-- ⚡ SQLite with WAL mode for concurrency
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-deployed-ff6f61?style=flat-square"/>
-</p>
+Indian Language Technology  
+Low-Resource NLP · OCR  
+Edge ML · Computer Vision  
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+> *"I don't just teach syntax — I teach students to think in systems, reason about tradeoffs, and build things that last."*
+
 </div>
+
+<br/>
 
 ---
 
-## 👨‍🏫 Teaching & Research
+<div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<strong>📘 OOP with Java</strong><br/>
-<sub>Assistant Professor, CGC Jhajjar<br/>Inheritance, Polymorphism,<br/>Design Patterns, Collections</sub>
-</td>
-<td align="center" width="33%">
-<strong>🏗️ System Design</strong><br/>
-<sub>Assistant Professor, CGC Jhajjar<br/>HLD/LLD, Scalability,<br/>Distributed Systems, Caching</sub>
-</td>
-<td align="center" width="33%">
-<strong>🔬 Research Areas</strong><br/>
-<sub>Indian Language NLP<br/>Edge ML · OCR<br/>Low-resource Language Tech</sub>
-</td>
-</tr>
-</table>
+## 📊 &nbsp; GITHUB ACTIVITY
 
-> 🎯 **Teaching Philosophy:** I bridge theory and practice — every concept taught in the classroom is grounded in real-world systems and hands-on projects.
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarmahanandia36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
+
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarmahanandia36&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6F61&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarmahanandia36&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6F61&area=true&hide_border=true&area_color=7C3AED" />
+
+</div>
+
+<br/>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkarmahanandia36&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarmahanandia36&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarmahanandia36&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarmahanandia36&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff6f61&line=ff6f61&point=c9d1d9" />
-</p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🗺️ &nbsp; JOURNEY
+
 </div>
-
----
-
-## 🗺️ Learning Journey
 
 ```mermaid
 graph LR
-    A["Python & CS Fundamentals"] --> B["Full-Stack Dev\n(Flask · FastAPI · React)"]
-    B --> C["ML & Data Science\n(scikit-learn · TensorFlow)"]
-    C --> D["Deep Learning &\nNLP Research\n(Seq2Seq · Attention)"]
-    D --> E["Indian Language\nTechnology"]
-    D --> F["Edge ML &\nComputer Vision"]
-    C --> G["MCA — NIT Raipur\n🎓"]
-    G --> H["Assistant Professor\nCSE @ CGC Jhajjar\n👨‍🏫"]
-    style A fill:#ff6f61,color:#fff
-    style G fill:#ff6f61,color:#fff
-    style H fill:#ff6f61,color:#fff
-    style E fill:#25A162,color:#fff
-    style F fill:#25A162,color:#fff
+    A("🐍 Python & CS\nFoundations") --> B("🌐 Full-Stack Dev\nFlask · FastAPI · React")
+    B --> C("🤖 ML & Data Science\nscikit-learn · TensorFlow")
+    C --> D("🧠 Deep Learning & NLP\nSeq2Seq · Attention")
+    D --> E("🇮🇳 Indian Language\nTechnology & OCR")
+    C --> F("🎓 MCA\nNIT Raipur")
+    F --> G("👨‍🏫 Assistant Professor\nCSE @ CGC Jhajjar")
+    G --> H("🛡️ Cyber Sahayak\nAI for Odisha")
+
+    style A fill:#7C3AED,color:#fff,stroke:none
+    style F fill:#7C3AED,color:#fff,stroke:none
+    style G fill:#10B981,color:#fff,stroke:none
+    style H fill:#FF6F61,color:#fff,stroke:none
+    style E fill:#302B63,color:#E0C3FC,stroke:none
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<br/>
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkarmahanandia">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Omkarmahanandia36">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:omkarmahanandia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <div align="center">
 
-### 🤝 Open To
+## 🤝 &nbsp; LET'S CONNECT
 
-| 💼 Industry Roles | 🔬 Research Collabs | 🎓 Academic Opportunities | 🛠️ Open Source |
-|:---|:---|:---|:---|
-| ML / Data Science Engineer | NLP & Indian Language Tech | Visiting Faculty / Talks | ML & NLP Projects |
-| Full-Stack Python Developer | Edge ML & CV Research | Guest Lectures / Workshops | AI for Social Good |
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Mahanandia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarmahanandia)
+[![GitHub](https://img.shields.io/badge/GitHub-Omkarmahanandia36-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkarmahanandia36)
+[![Email](https://img.shields.io/badge/Email-omkarmahanandia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahanandia@gmail.com)
+
+<br/>
+
+**Open to** &nbsp;|&nbsp; ML / Data Science Roles &nbsp;·&nbsp; NLP Research Collabs &nbsp;·&nbsp; Academic Talks &nbsp;·&nbsp; Open Source
+
+<br/>
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=MCA+%7C+NIT+Raipur+%7C+Assistant+Professor+%40+CGC+Jhajjar;ML+%7C+NLP+%7C+Full-Stack+Python+%7C+Indian+Language+AI;Let's+build+something+meaningful+together+🚀" />
-</p>
-
-<div align="center">
-
-### 🌟 _"Teach what you build. Build what you teach."_ 🌟
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=140&section=footer&text=Teach%20deeply.%20Build%20deliberately.%20Impact%20meaningfully.&fontSize=16&fontColor=E0C3FC&animation=twinkling&fontAlignY=65" />
 
 </div>
