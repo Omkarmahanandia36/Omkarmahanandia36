@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=MCA+%E2%80%94+National+Institute+of+Technology%2C+Raipur+%F0%9F%8E%93;Teaching+OOP+with+Java+%26+System+Design+%40+CGC+Jhajjar;Building+AI+Systems+for+Real-World+Impact+%F0%9F%9A%80;Passionate+about+Indian+Language+Technology+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/Omkarmahanandia36)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=MCA+%E2%80%94+National+Institute+of+Technology%2C+Raipur+%F0%9F%8E%93;Teaching+OOP+with+Java+%26+System+Design+%40+CGC+Jhanjheri;Building+AI+Systems+for+Real-World+Impact+%F0%9F%9A%80;Passionate+about+Indian+Language+Technology+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/Omkarmahanandia36)
 
 </div>
 
